@@ -1,5 +1,6 @@
 .fabric
 crash-reports
+data
 logs
 irisUpdateInfo.json
 ModTranslations
