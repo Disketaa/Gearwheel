@@ -1,0 +1,16 @@
+{
+  "auditory.sound_reload_key":"Перезагрузить аудиосистему",
+  "auditory.sound_reload_message":"Аудиосистема перезагружена",
+  "auditory.category":"Auditory",
+
+  "subtitles.item.bow.pulling": "Тетива натягивается",
+  "subtitles.item.trident.swing": "Трезубец замахивается",
+  "subtitles.item.tool.swing": "Взмах",
+  "subtitles.item.weapon.swing": "Рассекающий взмах",
+  "subtitles.entity.player.drop_item": "Предмет упал",
+  "subtitles.item.spawn_egg.use": "Яйцо призыва трескается",
+  "subtitles.item.nametag.use": "Бирка использована",
+  "subtitles.item.shield.raise": "Щит поднят",
+  "subtitles.block.jukebox.use": "Пластинка вставляется",
+  "subtitles.block.jukebox.eject": "Пластинка высовывается"
+}
