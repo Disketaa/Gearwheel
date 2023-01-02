@@ -17,13 +17,13 @@
     "displayNameWhenIconFails": false,
     "entityNumber": 0.0,
     "alwaysDisplayNametags": false,
-    "startFadingAt": 0.0,
     "dotSize": 2.0,
-    "displayY": false,
+    "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
+    "displayY": false,
     "icons": 2.0,
     "names": 1.0,
-    "heightLimit": 20.0,
+    "heightLimit": 100.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -53,9 +53,9 @@
           "protection": true,
           "settingOverrides": {
             "displayed": true,
-            "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "renderOrder": 1.0,
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {

@@ -1,0 +1,21 @@
+#Tue Jan 03 01:38:49 MSK 2023
+sunPathRotation=0.0
+smoothDof=false
+Clouds=1
+defskybox=true
+wtexblend=0.05
+Contrast=2.0
+watertex=true
+WeatherAngle=true
+bloom_strength=0.5
+Godrays_Density=0.575
+skyboxblendfactor=0.7
+shadowMapResolution=1024
+Rain_Drops=false
+morningFog=true
+polishedRefl=true
+cloudsIT=12
+Moonlight=0.006
+cloud_height=144.0
+AS_sharpening=0.1
+Cloudsblur=false
