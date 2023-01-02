@@ -59,7 +59,7 @@
 	sort: {
 		// Sets the sort mode for normal sorting.
 		// default: raw_id
-		primary-sort: quantity
+		primary-sort: raw_id
 		// Sets the sort mode for sorting whilst pressing shift.
 		// default: quantity
 		shift-sort: quantity

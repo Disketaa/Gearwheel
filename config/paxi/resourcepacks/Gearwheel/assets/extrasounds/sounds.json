@@ -1,0 +1,1683 @@
+{
+  "item.clone": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:random/pop",
+        "volume": 0.25,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "item.delete": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:random/fizz",
+        "volume": 0.25,
+        "pitch": 2
+      }
+    ]
+  },
+
+
+
+  "item.pickup.create.wrench": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_netherite",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.create.potato_cannon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_netherite",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 0.6
+      }
+    ]
+  },
+  "item.pickup.create.wand_of_symmetry": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_netherite",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.create.belt_connector": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.create.blaze_burner": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:entity.blaze.shoot",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.goggles": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "type": "event",
+        "volume": 0.2,
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.create.super_glue": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.slime_block.place",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.pickup.create.minecart_coupling": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.chain.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.crafting_blueprint": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.paper",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.diving_helmet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "create:copper_armor_equip",
+        "type": "event",
+        "volume": 0.4
+      }
+    ]
+  },
+  "item.pickup.create.diving_boots": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "create:copper_armor_equip",
+        "type": "event",
+        "volume": 0.4
+      }
+    ]
+  },
+  "item.pickup.create.sand_paper": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "create:sanding_short",
+        "type": "event",
+        "volume": 0.4
+      }
+    ]
+  },
+  "item.pickup.create.red_sand_paper": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "create:sanding_short",
+        "type": "event",
+        "volume": 0.4
+      }
+    ]
+  },
+  "item.pickup.create.empty_schematic": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.paper",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.schematic_and_quill": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.paper",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.honey_bucket": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.honey_block.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.pickup.create.chocolate_bucket": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.honey_block.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.fertilizer": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.wheat_flour": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.dough": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.cinder_flour": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.rose_quartz": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.polished_rose_quartz": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.create.powdered_obsidian": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.create.sturdy_sheet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "item.pickup.create.propeller": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.whisk": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.brass_hand": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.create.crafter_slot_cover": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.create.electron_tube": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.glass.place",
+        "type": "event",
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.create.blaze_cake": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.creative_blaze_cake": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.bar_of_chocolate": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.sweet_roll": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.chocolate_glazed_berries": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.honeyed_apple": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.honey_block.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.pickup.create.builders_tea": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "pitch": 2,
+        "volume": 0.3
+      }
+    ]
+  },
+  "item.pickup.create.raw_zinc": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.loose_metal",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.andesite_alloy": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 1.7
+      }
+    ]
+  },
+  "item.pickup.create.zinc_ingot": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.create.brass_ingot": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.create.copper_nugget": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal_bits",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.zinc_nugget": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal_bits",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.brass_nugget": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal_bits",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.create.experience_nugget": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:entity.experience_orb.pickup",
+        "type": "event",
+        "volume": 0.2,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.copper_sheet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.create.brass_sheet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 1.0
+      }
+    ]
+  },
+  "item.pickup.create.iron_sheet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.create.golden_sheet": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+
+
+
+
+  "item.pickup.farmersdelight.stove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.metal",
+        "type": "event",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.basket": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.scaffolding.place",
+        "type": "event",
+        "volume": 0.25,        
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.sandy_shrub": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_cabbages": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_onions": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_tomatoes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_carrots": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_potatoes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_beetroots": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wild_rice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.brown_mushroom_colony": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.red_mushroom_colony": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "type": "event",
+        "volume": 0.7,        
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.rope": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "type": "event",
+        "volume": 0.2,        
+        "pitch": 1.7
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.safety_net": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "type": "event",
+        "volume": 0.2,        
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.canvas_rug": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.hay",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.apple_pie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.sweet_berry_cheesecake": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.chocolate_pie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.stuffed_pumpkin_block": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.honey_glazed_ham_block": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.shepherds_pie_block": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.rice_roll_medley_block": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.flint_knife": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.chain.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.iron_knife": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_iron",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.golden_knife": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_gold",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.diamond_knife": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_diamond",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.netherite_knife": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_netherite",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.straw": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.hay",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.canvas": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.hay",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.tree_bark": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.axe.strip",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cabbage": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cabbage_seeds": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.tomato": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.tomato_seeds": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.onion": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.rice_panicle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.rice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.dust",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.rotten_tomato": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.fried_egg": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.milk_bottle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.hot_cocoa": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.apple_cider": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.melon_juice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.tomato_sauce": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.wheat_dough": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.raw_pasta": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.pumpkin_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cabbage_leaf": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.minced_beef": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.beef_patty": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.chicken_cuts": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_chicken_cuts": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.bacon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_bacon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cod_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_cod_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.salmon_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_salmon_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.mutton_chops": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_mutton_chops": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.ham": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.smoked_ham": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.pie_crust": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.hay",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cake_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.apple_pie_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.sweet_berry_cheesecake_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.chocolate_pie_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.sweet_berry_cookie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.honey_cookie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.melon_popsicle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.glow_berry_custard": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.fill",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.fruit_salad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.mixed_salad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.nether_salad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.barbecue_stick": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.egg_sandwich": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.place",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.chicken_sandwich": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.place",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.hamburger": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.place",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.bacon_sandwich": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.place",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.mutton_wrap": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.place",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.8
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.dumplings": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.stuffed_potato": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cabbage_rolls": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.salmon_roll": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cod_roll": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.kelp_roll": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event",
+        "pitch": 1.2
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.kelp_roll_slice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.crunchy_dry",
+        "type": "event",
+        "pitch": 1.6
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.cooked_rice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.bone_broth": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.beef_stew": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.chicken_soup": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.vegetable_soup": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.fish_stew": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.fried_rice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.pumpkin_soup": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.baked_cod_stew": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.noodle_soup": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.bacon_and_eggs": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.pasta_with_meatballs": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.pasta_with_mutton_chop": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.mushroom_rice": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.roasted_mutton_chops": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.vegetable_noodles": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.steak_and_potatoes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.ratatouille": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.squid_ink_pasta": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.grilled_salmon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.roast_chicken": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.stuffed_pumpkin": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.bowl",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.honey_glazed_ham": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.shepherds_pie": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.dog_food": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.farmersdelight.horse_feed": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.hay",
+        "type": "event"
+      }
+    ]
+  },
+
+
+
+  "item.pickup.naturalist.antler": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.tuff.place",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.7
+      }
+    ]
+  },
+  "item.pickup.naturalist.glow_goop": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:block.slime_block.place",
+        "type": "event",
+        "volume": 0.25,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.pickup.naturalist.snail_shell": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "naturalist:entity.snail.back",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 2
+      }
+    ]
+  },
+  "item.pickup.naturalist.venison": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.wet",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.naturalist.cooked_venison": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.meat",
+        "type": "event"
+      }
+    ]
+  },
+  "item.pickup.naturalist.chrysalis": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "naturalist:entity.firefly.hurt",
+        "type": "event",
+        "volume": 0.7
+      }
+    ]
+  },
+  "item.pickup.naturalist.snail_bucket": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "naturalist:item.bucket.fill_snail",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 1.6        
+      }
+    ]
+  },
+  "item.pickup.naturalist.bear_fur": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "type": "event",
+        "volume": 0.2,
+        "pitch": 2
+      }
+    ]
+  }
+}
