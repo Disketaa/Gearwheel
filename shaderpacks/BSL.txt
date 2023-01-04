@@ -1,4 +1,4 @@
-#Wed Jan 04 03:45:20 MSK 2023
+#Wed Jan 04 12:10:45 MSK 2023
 shadowDistance=128.0
 sunPathRotation=0.0
 WEATHER_OPACITY=2.00
