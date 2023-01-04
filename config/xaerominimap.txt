@@ -9,7 +9,7 @@ radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
-caveMaps:2
+caveMaps:0
 caveZoom:1
 showWaypoints:true
 showIngameWaypoints:true
@@ -43,12 +43,12 @@ waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
 arrowScale:2.0
-arrowColour:0
+arrowColour:-1
 smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:2
+mainEntityAs:1
 blockTransparency:true
 waypointOpacityIngame:100
 waypointOpacityMap:80
@@ -87,10 +87,10 @@ minimapFrameColor:9
 compassColor:8
 northCompassColor:-1
 showDimensionName:false
-displayMultipleWaypointInfo:1
+displayMultipleWaypointInfo:0
 entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
-autoConvertWaypointDistanceToKmThreshold:10000
+autoConvertWaypointDistanceToKmThreshold:1000
 waypointDistancePrecision:1
 mainDotSize:2
 partialYTeleportation:true
