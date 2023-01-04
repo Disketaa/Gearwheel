@@ -1,4 +1,4 @@
-#Tue Jan 03 01:38:49 MSK 2023
+#Tue Jan 03 16:45:53 MSK 2023
 sunPathRotation=0.0
 smoothDof=false
 Clouds=1

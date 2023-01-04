@@ -1,0 +1,20 @@
+{
+  "debugMode": false,
+  "ignoreUpdates": true,
+  "promiscuous": false,
+  "clearAllOnKey": true,
+  "cuboidGridColor": "#AAAAAA33",
+  "cuboidEdgeColor": "#A9FCA9CC",
+  "cuboidFirstPointColor": "#A9FCA9CC",
+  "cuboidSecondPointColor": "#A9FCA9CC",
+  "polyGridColor": "#CC3333CC",
+  "polyEdgeColor": "#CC4C4CCC",
+  "polyPointColor": "#33CCCCCC",
+  "ellipsoidGridColor": "#CC4C4CCC",
+  "ellipsoidPointColor": "#CCCC33CC",
+  "cylinderGridColor": "#CC3333CC",
+  "cylinderEdgeColor": "#CC4C4CCC",
+  "cylinderPointColor": "#CC33CCCC",
+  "chunkBoundaryColour": "#33CC33CC",
+  "chunkGridColour": "#4CCCAA99"
+}
