@@ -145,6 +145,7 @@
 			"value_color": 11272107,
 			"total_entities_color": 12763842,
 			"lines": {
+				"fireflies": true,
 				"entities": true,
 				"water_creature": true,
 				"underground_water_creature": true,
