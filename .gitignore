@@ -4,7 +4,8 @@ crash-reports
 data
 logs
 ModTranslations
-options*
+options.amecsapi.txt
+options.txt
 realms_persistence.json
 saves
 screenshots
@@ -12,3 +13,5 @@ servers*
 usercache.json
 XaeroWaypoints*
 XaeroWorldMap/*
+
+!config/yosbr/options.txt
